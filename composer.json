@@ -7,7 +7,13 @@
     "autoload": {
         "classmap": ["shpParser.php"]
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/phayes/geoPHP"
+        }
+    ],
     "require": {
-        "phayes/geophp": "dev-master"
+        "phayes/geophp": "1.1"
     }
 }
