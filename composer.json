@@ -9,5 +9,5 @@
     },
     "require": {
         "phayes/geophp": "1.1"
-    },
+    }
 }
