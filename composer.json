@@ -1,9 +1,9 @@
 {
-    "name": "fillerwriter/shapefile-parser",
+    "name": "muka/shapefile-parser",
     "license": "GPL-2 or New-BSD",
     "type": "library",
     "description": "This class allows for the extraction of data from a ESRI shapefile",
-    "homepage": "https://github.com/fillerwriter/PHP5-Shape-File-Parser",
+    "homepage": "https://github.com/muka/PHP5-Shape-File-Parser",
     "autoload": {
         "classmap": ["shpParser.php"]
     },
