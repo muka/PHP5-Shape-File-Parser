@@ -1,0 +1,13 @@
+{
+    "name": "fillerwriter/shapefile-parser",
+    "license": "GPL-2 or New-BSD",
+    "type": "library",
+    "description": "This class allows for the extraction of data from a ESRI shapefile",
+    "homepage": "https://github.com/fillerwriter/PHP5-Shape-File-Parser",
+    "autoload": {
+        "classmap": ["shpParser.php"]
+    },
+    "require": {
+        "phayes/geophp": "1.1"
+    },
+}
