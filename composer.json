@@ -8,6 +8,6 @@
         "classmap": ["shpParser.php"]
     },
     "require": {
-        "phayes/geophp": "1.1"
+        "phayes/geophp": "dev-master"
     }
 }
