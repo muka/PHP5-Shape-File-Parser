@@ -5,6 +5,6 @@
     "description": "This class allows for the extraction of data from a ESRI shapefile",
     "homepage": "https://github.com/muka/PHP5-Shape-File-Parser",
     "autoload": {
-        "classmap": ["shpParser.php"]
-    }
+        "psr-0": {"ShpParser": "src/"}
+    },
 }

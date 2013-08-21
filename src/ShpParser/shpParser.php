@@ -1,5 +1,7 @@
 <?php
 
+namespace ShpParser;
+
 /**
  * Loads info from shp files and converts the data to usable WKT.
  *
